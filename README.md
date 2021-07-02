@@ -1,2 +1,2 @@
 # CartoonGuidetoStatisticsByPython
-对漫画统计学进行一些python实现
+对《漫画统计学》进行一些python实现
